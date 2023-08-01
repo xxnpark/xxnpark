@@ -34,29 +34,8 @@
 
 
 ## Stats 📊
-<p>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=xxnpark&show_icons=true&theme=dark"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxnpark&theme=dark"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xxnpark&show_icons=true&theme=dark"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxnpark&theme=dark"/>
 </p>
-
-<!--
-**xxnpark/xxnpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<p>
-  <a href="https://xxnpark.me/" target="_blank"><img height="25" src="https://img.shields.io/badge/xxnpark.me-3e3e4a?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/xxnpark/" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jaejae1112@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/jaejae1112@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
--->
