@@ -32,10 +32,11 @@
   <a href="https://kubernetes.io/" target="_blank"><img height="25" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 </p>
 
-
+<!--
 ## Stats 📊
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xxnpark&show_icons=true&theme=dark"/>
   &nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxnpark&theme=dark"/>
 </p>
+-->
