@@ -2,7 +2,7 @@
 - I'm a _**software engineer**_ from South Korea 🇰🇷.
 - I'm also an _**undergraduate student**_ double majoring in _**Computer Science**_ and _**Mathematics**_ at [SNU](https://snu.ac.kr/).
 - I have interests in _**back-end development**_, _**cloud engineering**_, _**machine learning**_, and also _**mathematics in the engineering field**_.
-- I'm currently performing military service in the _**ROK Army**_ 🪖. (23.08.14 ~ 25.02.13)
+- I'm currently performing military service in the _**ROK Army**_ 🪖. (23.08.14 ~ 25.02.09)
 
 ## More Ways to Reach Me Out 🎞️
 - [Personal Website](https://xxnpark.me/)
