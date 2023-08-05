@@ -14,9 +14,9 @@
 <p>
   <a href="https://python.org/" target="_blank"><img height="25" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://ruby-lang.org/" target="_blank"><img height="25" src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
+  <a href="" target="_blank"><img height="25" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
   <a href="https://java.com/" target="_blank"><img height="25" src="https://img.shields.io/badge/java-2d61a0?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="https://kotlinlang.org/" target="_blank"><img height="25" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"><img height="25" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </p>
 <p>
   <a href="https://djangoproject.com/" target="_blank"><img height="25" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
