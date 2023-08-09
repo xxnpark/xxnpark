@@ -32,6 +32,10 @@
   <a href="https://kubernetes.io/" target="_blank"><img height="25" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxnpark&title=hits&edge_flat=false"/></a>
+</p>
+
 <!--
 ## Stats 📊
 <p align="center">
